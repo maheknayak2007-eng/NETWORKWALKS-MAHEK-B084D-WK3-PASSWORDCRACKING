@@ -42,3 +42,15 @@ Both tools arrived at the same password for the same file, which makes
 sense since they're both just running a dictionary attack against the
 same PDF hash - JTR does it locally, Networkwalks' tool does it in the
 browser.
+
+👨‍💻 Author
+
+Mahek Nayak Dharmesh
+
+🔗 LinkedIn Post
+
+You can find my LinkedIn post for this project here:
+
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7529091375154466816
+
+⭐ If you found this repository helpful, consider giving it a star!
