@@ -18,7 +18,7 @@ Steps:
 Cracked password: password1
 Flag: nw{cybersecurity_flag_captured_2608}
 
-Screenshots: see PM1-JTR-Johnny/screenshots/
+Screenshots: see [PM1-JTR-Johnny](./PM1-JTR-Johnny)
 
 ## PM2 - Password Cracking with Networkwalks Tools
 
@@ -32,9 +32,9 @@ Steps:
 4. Opened the PDF with the cracked password and got the flag
 
 Cracked password: password1
-Flag: nw{cybersecurity_flag_captured_2608}
+Flag: nw{networkwalks_flag1_jtr_270521_1}
 
-Screenshots: see PM2-Networkwalks-Tools/screenshots/
+Screenshots: see [PM2-Networkwalks-Tools](./PM2-Networkwalks-Tools)
 
 ## Notes
 
